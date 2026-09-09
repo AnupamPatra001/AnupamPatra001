@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI-powered projects involving Machine Learning, Data Science, and Generative AI<br>👥 I’m looking to collaborate on<br>AI/ML, Data Science, and GenAI projects with fellow developers and students<br>🤝 I’m looking for help with<br>Advanced ML, RAG, LLM applications, and AI deployment<br>🌱 I’m currently learning<br>Deep Learning, TensorFlow, PyTorch, Generative AI, and MLOps<br>💬 Ask me about<br>Python, Machine Learning, Data Science, EDA, and AI projects<br>⚡ Fun fact<br>I enjoy understanding how things work rather than just learning how to use them.
+🔭 I’m currently working on: AI-powered projects involving Machine Learning, Data Science, and Generative AI<br>👥 I’m looking to collaborate on: AI/ML, Data Science, and GenAI projects with fellow developers and students<br>🤝 I’m looking for help with: Advanced ML, RAG, LLM applications, and AI deployment<br>🌱 I’m currently learning: Deep Learning, TensorFlow, PyTorch, Generative AI, and MLOps<br>💬 Ask me about: Python, Machine Learning, Data Science, EDA, and AI projects<br>⚡ Fun fact: I enjoy understanding how things work rather than just learning how to use them.
 
 
 ## 🌐 Socials:
@@ -10,6 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AnupamPatra001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!-- ![](https://streak-stats.demolab.com/?user=AnupamPatra001&theme=dark&hide_border=false)<br/> -->
+![](https://streak-stats.demolab.com/?user=AnupamPatra001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnupamPatra001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
